@@ -1,6 +1,6 @@
 
 
-🚀 With a solid foundation in HTML, CSS, and JavaScript, I've successfully delivered real-world projects for clients, including a captivating charity website and an elegant perfume e-commerce platform.
+🚀 With a solid foundation in HTML, CSS, and JavaScript as well as proficiency in ReactJs and Tailwind CSS, I've successfully delivered real-world projects for clients, including a captivating charity website and an elegant perfume e-commerce platform.
 
 🌐 In addition to client work, I've dedicated time to personal projects, such as my own website showcasing my skills and portfolio. I've also developed a real-time chat application, fostering seamless communication, and a nostalgic snake game that brings back memories of classic gaming.
 
